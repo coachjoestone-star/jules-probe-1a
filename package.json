@@ -1,0 +1,10 @@
+{
+  "name": "jules-probe-1a",
+  "version": "1.0.0",
+  "description": "Small CommonJS LRU cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
